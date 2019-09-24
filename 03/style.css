@@ -18,12 +18,12 @@ main {
 header {
     text-align: center;
     background-color: blueviolet;
-    padding: 7px;
+    padding-top: 5px;
 }
 
 article {
-    margin-top: 11px;
-    margin-bottom: 15px;
+    margin-top: 10px;
+    margin-bottom: 10px;
     display: flow-root;
 }
 
@@ -31,7 +31,7 @@ article img {
     max-width: 15rem;
     float: left;
     border: 5px black;
-    margin-right: 10px;
+    margin-right: 5px;
 }
 
 footer {
