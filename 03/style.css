@@ -18,9 +18,13 @@ main {
 header {
     text-align: center;
     background-color: blueviolet;
+    padding: 7px;
 }
 
 article {
+    margin-top: 11px;
+    margin-bottom: 15px;
+    display: flow-root;
 }
 
 article img {
