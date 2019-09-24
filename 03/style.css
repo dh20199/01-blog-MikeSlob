@@ -28,6 +28,10 @@ article {
 }
 
 article img {
+    max-width: 15rem;
+    float: left;
+    border: 5px black;
+    margin-right: 10px;
 }
 
 footer {
