@@ -39,7 +39,7 @@ footer {
     /* please don't change these values; you will have 
        plenty of chance to play with flex in the next problem */
     display: flex; 
-    flex-order: row;
+    -ms-flex-order: row;
     justify-content: space-evenly;
     align-items: center;
 }
@@ -49,5 +49,5 @@ button {
     min-width: 5rem;
 }
 .button {
-    
+    min-width: 5rem;
 }
