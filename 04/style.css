@@ -12,14 +12,14 @@ main {
     grid-template-areas: "nav nav nav"
                          "side art aside"
                          "side art aside";
-    grid-template-columns: 3fr, 12fr; 3fr;
-    grid-template-rows: 1fr, 4fr, 1fr;
+    grid-template-columns: 3fr 12fr 3fr;
+    grid-template-rows: 1fr 4fr 1fr;
     grid-gap: 0% ;
 }
 
 
 main>* {
-    border: orange solid 1px;   /*sorry for the horrible color*/
+    border: orange solid 1px;   
     border-radius: 10px;
     text-align: center;         /*keep the text centered horizontally*/
     
