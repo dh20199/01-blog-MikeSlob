@@ -5,6 +5,7 @@ article {
 
 header {
     background: blueviolet;
+    border-radius: 10px;
 }
 
 section.main {
@@ -12,6 +13,8 @@ section.main {
     margin-right: 10px;
     margin-top: 10px;
     border: 10rem blueviolet;
+    background-color: lightpink;
+    border-radius: 10px;
 }
 
 section.source {
@@ -19,11 +22,12 @@ section.source {
     margin-right: 10px;
     border: orangered 5px;
     border-radius: 10px;
-    background-color: orangered;
 }
 
 article img {
     max-width: 35rem;
     float: left;
     margin-right: 1rem;
+    border: orangered 5px;
+    border-radius: 10px;
 }
