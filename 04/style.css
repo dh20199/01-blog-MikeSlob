@@ -53,7 +53,7 @@ nav {
 
 article {
     background-color: rgba(30,30,30,0.4);
-    grid-area:
+    grid-area: art;
     display: grid ;
     grid-template-columns: repeat (5, 1fr);
     grid-template-rows: repeat (5, 1fr);
