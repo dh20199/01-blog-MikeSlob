@@ -1,3 +1,23 @@
 article {
-    background:  #0000;;
+    background:  #0000;
+    display: grid;
+}
+
+header {
+    background: blueviolet;
+}
+
+section.main {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+section.source {
+    margin-left: 10px;
+    margin-right: 10px;
+    border: 5px blueviolet;
+}
+
+article img {
+    float: left;
 }
