@@ -19,5 +19,6 @@ section.source {
 }
 
 article img {
+    max-width: 50rem;
     float: left;
 }
