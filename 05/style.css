@@ -4,6 +4,7 @@ article {
 }
 
 header {
+    text-align: center;
     background: blueviolet;
     border-radius: 10px;
 }
@@ -15,6 +16,7 @@ section.main {
     border: 10rem blueviolet;
     background-color: lightpink;
     border-radius: 10px;
+    text-align: left;
 }
 
 section.source {
